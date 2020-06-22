@@ -18,7 +18,7 @@ Panoramabildene av Hurrungane er tatt fra Vetle-Knipen på Sletterust siden. Aus
 ### Store Dyrhaugstindene, Dyrhaugsryggen (2147 moh) over Bandet
 
 - Sommer 2014 gikk jeg opp på [Dyrhaugsryggen](/2014/06/dyrhaugsryggen/) (via Bandet). Turen ble gjort som endel av klatrekurset jeg var deltaker på. Dagen etter gikk vi på Store Austabotntinden.
-- I pinsen 2020 ble [det randoneetur op ryggen mot Store Dyrhaugstind](/2020/05/dyrhaugstind/).
+- I pinsen 2020 ble [det randoneetur opp ryggen mot Store Dyrhaugstind](/2020/05/dyrhaugstind/).
 
 ### Store Skagastølstinden - Storen (2405 moh) over Bandet
 
