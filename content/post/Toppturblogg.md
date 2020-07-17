@@ -151,6 +151,8 @@ Fra Vetle-Knipen, Sletterust er det et storslagen utsikt mot Hurrungane. På bil
 
 {{< wide-image src="/images/Toppturminner/hurrungane.jpeg" title="Hurrungane" >}}
 
+{{< wide-image src="/images/Toppturminner/ringstind.jpeg" title="Ringstind sett fra Vettismorki" >}}
+
 Flere av fjellene i [Hurrungane](https://no.wikipedia.org/wiki/Hurrungane) nåes lettest fra Turtagrø og bommen på Tindeveien for hhv Austabotntindene og Soleibotntind.
 
 {{< wide-image src="/images/Toppturminner/austabotntind.jpg" title="Austabotntindene og Store Ringstind i vinterdrakt" >}}
