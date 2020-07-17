@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://toppturer.netlify.app/"
-languageCode = "nb-no"
-defaultContentLanguage = "nb-no"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Toppturblogg"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
@@ -87,7 +87,7 @@ canonifyurls = true
     identifier = "github"
     name = "GitHub"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\" aria-hidden=\"true\"></i>"
-    url = "https://github.com/rsyncosx"
+    url = "https://github.com/rsyncOSX/Toppturer"
 
   # [[menu.links]]
   #  weight = 2
