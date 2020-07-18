@@ -3,10 +3,8 @@ title: "En blogg om toppturer"
 date: 2020-06-01
 categories:
 - toppturblogg
-- listeovertopper
 ---
-
-Under er liste over alle toppturer i Jotunheimen som jeg har blogget om. På alle turer er det bilde av GPS spor og høydekurve for turen.
+Under er liste over de toppturer i Jotunheimen som jeg har blogget om. På de fleste turer er det bilde av GPS spor og høydekurve for turen.
 
 Bildene under er mot Hurrungane i hhv sommer- og vinterdrakt sett fra Sletterust siden. Hurrungane er en av de mer alpine delene av Jotunheimen og et mye besøkt fjellområde om sommeren og våren når skisesongen begynner. Kjente topper i Hurrungane er Skagastølstindane, Styggedalstindane, Dyrhaugstindane, Maradalstindane, Austanbottstindane, Soleibotntindane.
 

@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://toppturer.netlify.app/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "no-nb"
+defaultContentLanguage = "no-nb"
 title = "Toppturblogg"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"

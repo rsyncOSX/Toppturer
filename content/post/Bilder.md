@@ -19,8 +19,6 @@ gallery:
 - /images/Surtningssue/nr8.jpg
 - /images/Stetind/nr1.jpg
 - /images/Trollveggen/nr1.jpg
-categories:
-- toppturblogg
 tags:
 - bildegalleri
 ---

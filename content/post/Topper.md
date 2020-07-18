@@ -4,7 +4,6 @@ date: 2019-07-14
 slug: Topper
 categories:
 - toppturblogg
-- listeovertopper
 ---
 {{< wide-image src="/images/Topper/storen.jpg" title="Storen" >}}
 På denne siden har jeg listet de fjelltopper som jeg har vært på (og som jeg kan anbefale turer på). For å være ærlig så finnes det vel ikke en eneste fjelltopp som jeg ikke kan anbefale en tur på. Jeg har vært på flere fjelltopper enn de som er listet på denne siden. De fjelltoppene som er listet her er fjelltopper som også normalt betyr en dagstur eller to i fjellheimen. Noen topper er mer spektakulære enn andre, men det er vel mer en subjektiv preferanse enn objektiv.

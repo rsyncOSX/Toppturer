@@ -21,7 +21,7 @@ Sporlogg fra Turtagrø. Vi var redd vi måtte gå uten ski i starten, men fortsa
 
 Vi gikk ikke helt til toppen. Den er noe utsatt og det var mye folk på toppen i dag. Det tryggeste er å ha med seg stegjern og isøks hvis man skal helt til topps.
 
-{{< wide-image src="/images/Dyrhaugstinden/IMG_0031.jpeg" title="Skagastølsryggen og Store Skagastolstinden.">}}
+{{< wide-image src="/images/Dyrhaugstinden/IMG_0031.jpeg" title="Skagastølsryggen og Store Skagastølstinden.">}}
 
 Fantastisk utsikt mot Skagastølsryggen, Norges høyeste ryggtravers og Norges tredje høyste topp, [Storen](/2015/08/storen/).
 
