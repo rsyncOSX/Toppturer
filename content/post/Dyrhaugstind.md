@@ -9,7 +9,7 @@ tags:
 
 Tur retur Turtagrø på ca fem timer med ca 1200 høydemeter. Vi brukte tre timer til topps og det ble selvfølgelig en lang og god rast på toppen når været var slik. Høy solfaktor var helt nødvendig, hvis ikke ville vi blitt kraftig solbrent. Og det er helt unødvendig.
 
-![](/images/Logger/dyrhaugstinden.png)
+![](/images/Logger/Dyrhaugrando.png)
 
 Sporlogg fra Turtagrø. Vi var redd vi måtte gå uten ski i starten, men fortsatt var det sne hele veien. Men snøsmeltingen var godt i gang og ned siste henget var det ikke mye gli. Skia søg seg fast i den våte sneen. Lengre opp i fjellet var det slush og helt topp føre.
 
