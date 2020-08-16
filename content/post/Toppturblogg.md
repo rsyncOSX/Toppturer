@@ -1,6 +1,6 @@
 ---
 title: "En blogg om toppturer"
-date: 2020-06-01
+date: 2020-08-16
 categories:
 - toppturblogg
 ---
@@ -105,6 +105,10 @@ Panoramabildene av Hurrungane er tatt fra Vetle-Knipen på Sletterust siden. Aus
 ### Nordre Skagastølstind (2168 moh)
 
 - [Nordre Skagastølstinden](/2018/07/skagastolstinden) er også en flott tur og krever ikke sikring eller klatring. Skal man videre på ryggen må det sikringsutstyr til.
+
+### Austre Trollsteinhøe (2096 moh)
+
+- [Austre Trollsteinhøe](2020/08/trollsteinhøe) er en grei topptur med utgangspunkt fra parkeringsplassen til Glitterheim.
 
 ### Stetinden (2020 moh)
 
