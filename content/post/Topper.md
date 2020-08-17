@@ -1,6 +1,6 @@
 ---
 title:  "Liste over topper"
-date: 2020-08-17
+date: 2020-08-16
 slug: Topper
 categories:
 - toppturblogg
