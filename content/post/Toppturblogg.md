@@ -108,7 +108,7 @@ Panoramabildene av Hurrungane er tatt fra Vetle-Knipen på Sletterust siden. Aus
 
 ### Austre Trollsteinhøe (2096 moh)
 
-- [Austre Trollsteinhøe](2020/08/trollsteinhøe) er en grei topptur med utgangspunkt fra parkeringsplassen til Glitterheim.
+- [Austre Trollsteinhøe](/2020/08/trollsteinhoe) er en grei topptur med utgangspunkt fra parkeringsplassen til Glitterheim.
 
 ### Stetinden (2020 moh)
 

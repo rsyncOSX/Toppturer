@@ -1,9 +1,9 @@
 ---
 title: "Austre Trollsteinhøe"
 date: 2020-08-15
-slug: Trollsteinhøe
+slug: Trollsteinhoe
 tags:
-- trollsteinhøe
+- trollsteinhoe
 ---
 Lørdag 15 august 2020 ble turen satt til Jotunheimen fra hytta. Det ble en lang dagstur, seks timer i bilen tur retur.  Vi hadde i utgangspunktet tenkt oss på Stornubben. Vi skulle parkere på Storkroken og for å komme til Stornubben måtte vi krysse elven Veo. Men vi synes elva var litt for utfordrene å krysse og planene ble lagt om. Stornubben og Nautgardstinden blir en skitur til våren igjen med utgangspunkt fra Hindsæter.
 
