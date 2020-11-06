@@ -42,7 +42,7 @@ Etter et par timer i veggen var vi oppe på toppen. Ett av taulagene gikk opp p�
 
 {{< wide-image src="/images/Dyrhaugsryggen/nr7.jpg" title="Mathias, vår danske hovedinstruktør.">}}
 
-På Søndre ble det også tid for en titt bort på Storen. Det var nok flere av oss som tenkte opp dit skal jeg og en dag. Og [slik](//2015/08/storen/) ble det ihvertfall for meg.
+På Søndre ble det også tid for en titt bort på Storen. Det var nok flere av oss som tenkte opp dit skal jeg og en dag. Og [slik](/2015/08/storen/) ble det ihvertfall for meg.
 
 {{< wide-image src="/images/Dyrhaugsryggen/nr8.jpg" title="Storen sett fra Søndre">}}
 
