@@ -19,7 +19,7 @@ title = "Toppturblogg"
 theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
 googleAnalytics = "UA-168665121-1"
-paginate = 15
+paginate = 25
 canonifyurls = true
 
 [permalinks]

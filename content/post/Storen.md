@@ -6,7 +6,6 @@ tags:
 - storen
 ---
 {{< wide-image src="/images/Storen/nr1.jpg" title="Store Skagastølstinden, Norges tredje høyeste topp" >}}
-{{< wide-image src="/images/Topper/storen.jpg" title="Storen titter frem i tåka" >}}
 
 Jeg og tre likesinnede (Einar, Pål og Peer) var helgen 31 juli - 2 august 2015 deltakere på DNT Fjellsport Oslo sin tur "[i Slingsbys fotspor](https://fjellsport.dntoslo.no/aktiviteter/vis/818515/)".  Turen gikk fra hhv Fondsbu (for [Falketind](/post/2015-07-31-falketind/)) og Turtagrø (for Store Skagastølstinden - Storen). Vi var 4 deltakere på turen og to instruktører/ledere fra DNT Fjellsport Oslo. Og da ble det også to taulag når det var påkrevd i fjellet. Bildene i turrapporten er tatt av flere enn meg og det er anmerket under hvert bilde hvem som er fotograf.
 
