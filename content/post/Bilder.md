@@ -19,6 +19,12 @@ gallery:
 - /images/Surtningssue/nr8.jpg
 - /images/Stetind/nr1.jpg
 - /images/Trollveggen/nr1.jpg
+- /images/Toppturminner/hurrungane.jpeg
+- /images/Toppturminner/ringstind.jpeg
+- /images/Toppturminner/austabotntind.jpg
+- /images/Toppturminner/storen.jpg
+- /images/Toppturminner/hurrunganenesommer.jpeg
+- /images/Toppturminner/hurrunganevinter.jpeg
 tags:
 - bildegalleri
 ---

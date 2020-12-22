@@ -6,13 +6,6 @@ categories:
 ---
 Under er liste over de toppturer i Jotunheimen som jeg har blogget om. På de fleste turer er det bilde av GPS spor og høydekurve for turen.
 
-Bildene under er mot Hurrungane i hhv sommer- og vinterdrakt sett fra Sletterust siden. Hurrungane er en av de mer alpine delene av Jotunheimen og et mye besøkt fjellområde om sommeren og våren når skisesongen begynner. Kjente topper i Hurrungane er Skagastølstindane, Styggedalstindane, Dyrhaugstindane, Maradalstindane, Austanbottstindane, Soleibotntindane.
-
-Panoramabildene av Hurrungane er tatt fra Vetle-Knipen på Sletterust siden. Austabotntinden kan sees til venstre i bildene. Ringstiden er litt til høyre for Austabotntinden. Dyrhaugsryggen og Storen litt til høyre for midten.
-
-{{< wide-image src="/images/Toppturminner/hurrunganenesommer.jpeg" title="Hurrungane sommer" >}}
-{{< wide-image src="/images/Toppturminner/hurrunganevinter.jpeg" title="Hurrungane vinter" >}}
-
 ### Store Dyrhaugstindene, Dyrhaugsryggen (2147 moh) over Bandet
 
 - Sommer 2014 gikk jeg opp på [Dyrhaugsryggen](/2014/06/dyrhaugsryggen/) (via Bandet). Turen ble gjort som endel av klatrekurset jeg var deltaker på. Dagen etter gikk vi på Store Austabotntinden.
@@ -149,16 +142,7 @@ Og her er en [samleliste over alle topper](/2019/07/topper/).
 
 NRK har laget en serie “Landet frå lufta” og 3 november 2016 sendte de bilder fra Sognefjellet. Bildene er utrolig flotte og turen går fra Lom og over Sognefjellet. Jeg har overnattet på flere av fjellstuene som de viser bilder av (Jotunheimen Fjellstue, Krossbu, Sognefjellshytta og Turtagrø). Det vises også nærbilder av flere av toppene jeg har vært på (Loftet, Galdhøpiggen, Storen). Her er [episoden](https://tv.nrk.no/serie/oeyeblikk-fra-landet-fraa-lufta/DVFJ61006513/03-11-2017) som ble vist 3 november.
 
-Fra Vetle-Knipen, Sletterust er det et storslagen utsikt mot Hurrungane. På bildet under sees Austabotntindene, Soleibotntinden, Store Ringstinden, Stølsmaradalstinden og Midtre Ringstind.
-
-{{< wide-image src="/images/Toppturminner/hurrungane.jpeg" title="Hurrungane" >}}
-
-{{< wide-image src="/images/Toppturminner/ringstind.jpeg" title="Ringstind sett fra Vettismorki" >}}
-
 Flere av fjellene i [Hurrungane](https://no.wikipedia.org/wiki/Hurrungane) nåes lettest fra Turtagrø og bommen på Tindeveien for hhv Austabotntindene og Soleibotntind.
-
-{{< wide-image src="/images/Toppturminner/austabotntind.jpg" title="Austabotntindene og Store Ringstind i vinterdrakt" >}}
-{{< wide-image src="/images/Toppturminner/storen.jpg" title="Dyrhaugstindene og Store Skagastølstinden (Storen)" >}}
 
 Storen er et mål for mange som vandrer i Jotunheimen. Er man i brukbar fysisk form og takler høyder så er en tur opp på Storen mulig for de som vil. Til venstre for Storen (bildet over) er Midtmaradalsbreen og til høyre Slingsbybreen. Dyrhaugstindene er også en flott tur. Store Dyrhaugstind nås enten via Dyrhaugsryggen eller via Bandet og klatring opp til Søre Dyrhaugstinden.
 
@@ -170,4 +154,14 @@ Kartverket har lansert nye tjenester, skriv ut ditt eget kart i målestokk 1:50 
 
 Når jeg er i Jotunheimen bruker jeg naturligvis Topo Premium kartet. Men jeg har ikke sett behovet for å kjøpe flere Topo Premium kart når jeg er på tur andre steder. Frikart.no sine gratiskart er gode nok for meg.
 
-{{< wide-image src="/images/Toppturminner/fjellvaak.jpg" title="Fjellvåk" >}}
+## Hurrungane
+
+Bildene under er mot Hurrungane. Hurrungane er en av de mer alpine delene av Jotunheimen og et mye besøkt fjellområde om sommeren og våren når skisesongen begynner. Kjente topper i Hurrungane er Skagastølstindane, Styggedalstindane, Dyrhaugstindane, Maradalstindane, Austanbottstindane, Soleibotntindane.
+
+
+{{< wide-image src="/images/Toppturminner/hurrungane.jpeg" title="Hurrungane" >}}
+{{< wide-image src="/images/Toppturminner/ringstind.jpeg" title="Ringstind sett fra Vettismorki" >}}
+{{< wide-image src="/images/Toppturminner/austabotntind.jpg" title="Austabotntindene og Store Ringstind i vinterdrakt" >}}
+{{< wide-image src="/images/Toppturminner/storen.jpg" title="Dyrhaugstindene og Store Skagastølstinden (Storen)" >}}
+{{< wide-image src="/images/Toppturminner/hurrunganenesommer.jpeg" title="Hurrungane sommer" >}}
+{{< wide-image src="/images/Toppturminner/hurrunganevinter.jpeg" title="Hurrungane vinter" >}}
