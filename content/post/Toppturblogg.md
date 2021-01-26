@@ -6,6 +6,8 @@ categories:
 ---
 Under er liste over de toppturer i Jotunheimen som jeg har blogget om. På de fleste turer er det bilde av GPS spor og høydekurve for turen.
 
+{{< wide-image src="/images/Toppturminner/hurrungane.jpeg" title="Hurrungane" >}}
+
 ### Store Dyrhaugstindene, Dyrhaugsryggen (2147 moh) over Bandet
 
 - Sommer 2014 gikk jeg opp på [Dyrhaugsryggen](/2014/06/dyrhaugsryggen/) (via Bandet). Turen ble gjort som endel av klatrekurset jeg var deltaker på. Dagen etter gikk vi på Store Austabotntinden.
@@ -158,8 +160,6 @@ Når jeg er i Jotunheimen bruker jeg naturligvis Topo Premium kartet. Men jeg ha
 
 Bildene under er mot Hurrungane. Hurrungane er en av de mer alpine delene av Jotunheimen og et mye besøkt fjellområde om sommeren og våren når skisesongen begynner. Kjente topper i Hurrungane er Skagastølstindane, Styggedalstindane, Dyrhaugstindane, Maradalstindane, Austanbottstindane, Soleibotntindane.
 
-
-{{< wide-image src="/images/Toppturminner/hurrungane.jpeg" title="Hurrungane" >}}
 {{< wide-image src="/images/Toppturminner/ringstind.jpeg" title="Ringstind sett fra Vettismorki" >}}
 {{< wide-image src="/images/Toppturminner/austabotntind.jpg" title="Austabotntindene og Store Ringstind i vinterdrakt" >}}
 {{< wide-image src="/images/Toppturminner/storen.jpg" title="Dyrhaugstindene og Store Skagastølstinden (Storen)" >}}
