@@ -8,6 +8,10 @@ Under er liste over de toppturer i Jotunheimen som jeg har blogget om. På de fl
 
 {{< wide-image src="/images/Toppturminner/hurrungane.jpeg" title="Hurrungane" >}}
 
+Og dette er meg (april 2021)
+
+![](/images/Me/me.jpeg)
+
 ### Store Dyrhaugstindene, Dyrhaugsryggen (2147 moh) over Bandet
 
 - Sommer 2014 gikk jeg opp på [Dyrhaugsryggen](/2014/06/dyrhaugsryggen/) (via Bandet). Turen ble gjort som endel av klatrekurset jeg var deltaker på. Dagen etter gikk vi på Store Austabotntinden.
