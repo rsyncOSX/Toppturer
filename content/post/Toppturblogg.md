@@ -1,6 +1,6 @@
 ---
 title: "En blogg om toppturer"
-date: 2020-08-17
+date: 2021-04-26
 categories:
 - toppturblogg
 ---
@@ -120,6 +120,10 @@ Under er beskrivelse av fjellturer utenfor Jotunheimen. Jeg skulle gjerne ha bru
 ### Snøhetta (2286 moh)
 
 - Grethe og jeg gikk på [Snøhetta](/2015/07/stetind/) sommer 2015.
+
+### Toppturer i Hemsedal
+
+Om vinter og våren byr [Hemsedal](/2021/04/hemsedal/) på mange flotte toppturer. Her er noen av de som jeg har vært på.
 
 ### Halls fortopp (Stetind) (1314 moh)
 
