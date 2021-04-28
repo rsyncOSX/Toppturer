@@ -5,7 +5,7 @@ slug: Topper
 categories:
 - toppturblogg
 ---
-{{< wide-image src="/images/Topper/storen.jpg" title="Storen" >}}
+{{< wide-image src="/images/Topper/storen.jpg" title="Storen og Slingsbybreen i sikte." >}}
 På denne siden har jeg listet de fjelltopper som jeg har vært på (og som jeg kan anbefale turer på). For å være ærlig så finnes det vel ikke en eneste fjelltopp som jeg ikke kan anbefale en tur på. Jeg har vært på flere fjelltopper enn de som er listet på denne siden. De fjelltoppene som er listet her er fjelltopper som også normalt betyr en dagstur eller to i fjellheimen. Noen topper er mer spektakulære enn andre, men det er vel mer en subjektiv preferanse enn objektiv.
 
 Med tiden er det blitt 37 topper over 2000 meter.
@@ -52,12 +52,15 @@ Med tiden er det blitt 37 topper over 2000 meter.
 
 Jeg har vært på mange topper under 2000 meter. De som er nevnt her har alle gitt meg flotte turer og naturopplevelser i tillegg.
 
--   Halls fortopp (Stetind) (1314 moh)
--   Lauvnostind (1950 moh)
--   Gaustatoppen (1883 moh)
--   Friken (1503 moh)
--   De syv søstre, Tvillingene (945 moh)
--   Hardangerjøkulen (1863 moh)
--   Hallingskarvet (1905 moh)
--   Romsdalseggen (1216 moh)
--   Stabbeskaret, Trollveggen (1431 moh)
+- Halls fortopp (Stetind) (1314 moh)
+- Lauvnostind (1950 moh)
+- Gaustatoppen (1883 moh)
+- Friken (1503 moh)
+- De syv søstre, Tvillingene (945 moh)
+- Hardangerjøkulen (1863 moh)
+- Hallingskarvet (1905 moh)
+- Romsdalseggen (1216 moh)
+- Stabbeskaret, Trollveggen (1431 moh)
+- Nibbi (1741 moh)
+- Skarvanfjellet (1735 moh)
+- Storebottskarvet (1719 moh)
