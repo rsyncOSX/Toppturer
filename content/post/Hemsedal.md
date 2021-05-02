@@ -5,7 +5,7 @@ slug: Hemsedal
 tags:
 - hemsedal
 ---
-Hemsedal har mange flotte muligheter for toppturer. Vi bruker ca en times kjøretur fra hytta på Øknin (Ål, Torpo) til Hemsedal og til de fleste starter for disse topptuer. Det er ikke alltid nødvendig å reise helt til Jotunheimen for å finne flotte toppturer. Er været noenlunde bra er det nesten garantartert at du ikke er alene på disse fjellene. Se bare på bildet fra nedkjøringen Storebottskarvet.
+I Hemsedal er det flere muligheter for flotte toppturer. Vi bruker ca en times kjøretur fra hytta på Øknin (Ål, Torpo) til Hemsedal og til de fleste starter for disse toppturene. Det er ikke alltid nødvendig å reise helt til Jotunheimen for å finne flotte fjell. Er været noenlunde bra er det nesten garantartert at du ikke er alene på disse fjellene. Se bare på bildet fra nedkjøringen Storebottskarvet.
 
 ## Skarvanfjellet (1735 moh)
 
@@ -16,7 +16,7 @@ Parkering er den samme som for tur til Skogshorn. Det er et par ruter opp på fj
 
 ## Storebottskarvet (1719 moh)
 
-Storebottskarvet er også en enkel og meget flott topptur. Parkering i en lomme ved riksvei 52 ca 10 minutter etter passering Tuv (fra Hemsedal). Turen tar ca tre - fire timer å gjennomføre i et helt greit tempo. Første motbakke starter relativt raskt. Etter å ha passert under høyspenten flater det litt ut før siste motbakke mot selve toppen starter. 
+Storebottskarvet er også en enkel og meget flott topptur. Parkering i en lomme ved riksvei 52 ca 10 minutter etter passering Tuv (fra Hemsedal). Turen tar ca tre - fire timer å gjennomføre i et helt greit tempo. Første motbakke starter relativt raskt. Etter å ha passert under høyspenten flater det litt ut før siste motbakke mot selve toppen starter.
 
 ![](/images/Hemsedal/profilstorebottskarvet.png)
 ![](/images/Hemsedal/storebottskarvet.png)
